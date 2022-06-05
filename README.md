@@ -10,6 +10,7 @@ LittlePay coding test
 
 # How to run
 
+1.  Extract file named "LittlePay.zip" 
 1.	Go to the folder named “Program”
 2.	Adjust the properties file in the “Properties” folder
 3.	Run the “LittlePay-Test-0.0.1-SNAPSHOT-jar-with-dependencies.jar”
